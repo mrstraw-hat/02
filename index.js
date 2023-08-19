@@ -25,12 +25,17 @@
 
 // let name = "Muhammed falah ";
 // let age = " 14";
-// let s = "my name is " + name + ". my age is" + age;
-// console.log(s);
-let new_sentance = `my name is ${name}. My age is ${age}`
-console.log(new_sentance);
+// // let s = "my name is " + name + ". my age is" + age;
+// // console.log(s);
+// let new_sentance = `my name is ${name}. My age is ${age}`
+// console.log(new_sentance);
 
 
+// BOOLIAN
+
+let a = true;
+let b = false;
+console.log(typeof(a));
 
 
 
